@@ -1,0 +1,13 @@
+var x;
+var n;
+
+function potencia(x,n){
+   
+    for(i=2 ;i<=n ;i++){
+       x=x*x
+
+}
+return x; 
+
+}
+console.log(potencia(5,2));
